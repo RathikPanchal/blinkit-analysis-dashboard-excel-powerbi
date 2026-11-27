@@ -175,6 +175,13 @@ The dashboard helps businesses:
 ### Blinkit Sales Analysis Dashboard
 
 ![Blinkit Sales Analysis Dashboard]("D:\Excel_Projectssss\Blinkit_powerbi_dashboard\Screenshot 2026-11-26 231318.png")
+## 📸 Dashboard Preview
+
+<p align="center">
+  <img src="screenshots/Screenshot 2026-11-26 231318.png" 
+       alt="Blinkit Sales Analysis Dashboard" 
+       width="100%">
+</p>
 
 ---
 
